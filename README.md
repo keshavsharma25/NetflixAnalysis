@@ -1,4 +1,4 @@
-# Netflix Analysis- Introduction to Data Visualization using Plotly
+# Netflix Analysis- Introduction to Data Visualization & Recommendation System
 
 <hr>
 
