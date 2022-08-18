@@ -10,6 +10,9 @@ The dataset used to create this notebook is [Netflix TV Shows and Movies](https:
 
 I have also created a Kaggle notebook so that you can see the notebook in a more organized and interactive way. The link to the notebook is [here](https://www.kaggle.com/code/keshavsharma25/data-visualization-using-plotly-with-netflix-data). I also created a UI interface for the Recommendation System using Streamlit and the link to the same is [https://netflix-recommends.herokuapp.com/](https://netflix-recommends.herokuapp.com/). 
 
+![image](https://user-images.githubusercontent.com/76066586/185268568-0aff7435-5c50-4fce-b1b2-78cb0dfb6e5e.png)
+
+
 ### Dependencies
 
 Run the following command to install all the dependencies on either your command line or your notebook cell:
